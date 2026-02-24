@@ -1,1 +1,2 @@
-# scvi-tools.github.io
+theme: jekyll-theme-minimal
+title: Tuning and Validation of Models in scvi-tools
